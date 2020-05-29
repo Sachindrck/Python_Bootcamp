@@ -14,4 +14,4 @@ Object Oriented Programmin | > 1.3 hr | 9 | :black_square_button:
 
 ## Project-1 'Tic-Tac-Toe'
 
-<img src = "https://github.com/Sachindrck/Python_Bootcamp/blob/master/Project-1/ezgif.com-gif-maker.gif">
+<img src = "https://github.com/Sachindrck/Python_Bootcamp/blob/master/Project-1/ezgif.com-gif-maker.gif" height = 400px>
