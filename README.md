@@ -10,7 +10,7 @@ Python Comparison Operators | ~ 10 min | 3 | :heavy_check_mark:
 Python Statments | > 1.2 hr | 7 | :heavy_check_mark:
 Methods and Functions | > 2 hr | 24 | :heavy_check_mark:
 Milestone Project-1 | ~ 1 hr | 5 | :heavy_check_mark:
-Object Oriented Programmin | > 1.3 hr | 9 | :black_square_button:
+Object Oriented Programmin | > 1.3 hr | 9 | :heavy_check_mark:
 Modules and Packages | ~ 30 min | 3 | :black_square_button:
 Errors and Exceptions Handling | ~ 45 min | 5 | :black_square_button:
 Milestone Project-2 | ~ 1 hr | 5 | :black_square_button:
