@@ -12,7 +12,7 @@ Methods and Functions | > 2 hr | 24 | :heavy_check_mark:
 Milestone Project-1 | ~ 1 hr | 5 | :heavy_check_mark:
 Object Oriented Programmin | > 1.3 hr | 9 | :heavy_check_mark:
 Modules and Packages | ~ 30 min | 3 | :heavy_check_mark:
-Errors and Exceptions Handling | ~ 45 min | 5 | :black_square_button:
+Errors and Exceptions Handling | ~ 45 min | 5 | :heavy_check_mark:
 Milestone Project-2 | ~ 1 hr | 5 | :black_square_button:
 Python Decorators | ~ 30 min | 2 | :black_square_button:
 Python Generators | ~ 20 min | 3 | :black_square_button:
