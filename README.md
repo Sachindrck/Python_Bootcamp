@@ -17,6 +17,8 @@ Milestone Project-2 | ~ 1 hr | 5 | :black_square_button:
 Python Decorators | ~ 30 min | 2 | :heavy_check_mark:
 Python Generators | ~ 20 min | 3 | :heavy_check_mark:
 Final Capstone Python Project | ~ 1 hr | 10 | :black_square_button:
+Advance Python Modules | ~ 1 hr | 9 | :black_square_button:
+Python GUI - ipywidgets | ~ 1 hr | 7 | :black_square_button:
  
 ## Project-1 'Tic-Tac-Toe'
 
